@@ -1,5 +1,5 @@
 {
-  "name": "jsrange",
+  "name": "jsranger",
   "version": "1.0.0",
   "description": "A function to create lists inspired by Python range function",
   "main": "index.js",
