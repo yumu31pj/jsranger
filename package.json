@@ -1,0 +1,19 @@
+{
+  "name": "jsrange",
+  "version": "1.0.0",
+  "description": "A function to create lists inspired by Python range function",
+  "main": "jsRange.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuzuta22/jsRange.git"
+  },
+  "author": "zuzu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuzuta22/jsRange/issues"
+  },
+  "homepage": "https://github.com/zuzuta22/jsRange#readme"
+}
