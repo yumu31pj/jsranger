@@ -2,7 +2,7 @@
   "name": "jsrange",
   "version": "1.0.0",
   "description": "A function to create lists inspired by Python range function",
-  "main": "jsRange.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
