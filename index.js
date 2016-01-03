@@ -1,3 +1,3 @@
-var jsRange = require('./lib/jsRange');
+var jsranger = require('./lib/jsranger');
 
-module.exports = jsRange;
+module.exports = jsranger;

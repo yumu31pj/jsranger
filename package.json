@@ -1,6 +1,6 @@
 {
   "name": "jsranger",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A function to create lists inspired by Python range function",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "author": "zuzu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zuzuta22/jsRange/issues"
+    "url": "https://github.com/zuzuta22/jsranger/issues"
   },
-  "homepage": "https://github.com/zuzuta22/jsRange#readme"
+  "homepage": "https://github.com/zuzuta22/jsranger#readme"
 }
